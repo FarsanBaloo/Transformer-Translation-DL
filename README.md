@@ -14,7 +14,7 @@ The goal was to gain hands-on experience with the Transformer architecture, whic
   * Multi-Head Self-Attention
   * Positional Encoding
   * Encoder and Decoder stacks
-* Train a Transformer on a **toy dataset for machine translation**.
+* Train a Transformer on a large dataset for machine translation**.
 * Evaluate translation quality and compare to simpler baseline models.
 
 ---
