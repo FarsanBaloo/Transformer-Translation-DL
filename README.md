@@ -1,13 +1,5 @@
 # Transformer-Translation-DL
 
-Perfekt – då gör vi en README för ditt **Transformer-projekt (Lab 4)** baserat på filen du laddade upp (`MDU_DL_Transformers_Lab4.ipynb`). Jag kan inte köra koden direkt här, men jag ser av namnet och av det du berättade tidigare att det handlade om att implementera en **Transformer för språköversättning**.
-
-Här är ett förslag på en proffsig README (utan emojis, på engelska för GitHub):
-
----
-
-# Transformer-LanguageTranslation-DL
-
 ## Overview
 
 This project implements a **Transformer model** from scratch for a basic **language translation task** as part of the Deep Learning & Neural Networks course at Mälardalen University (MDU), 2025.
